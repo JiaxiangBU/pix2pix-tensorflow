@@ -3,3 +3,6 @@ tags
 test
 models
 .idea
+.Rproj.user
+facades/
+facades_train/
